@@ -1,6 +1,6 @@
 # toku
 
-A new Flutter project.
+Toku is a flutter application for learning the Japanese language smoothly and easily offline.
 
 ## Getting Started
 
